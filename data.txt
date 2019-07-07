@@ -1,3 +1,3 @@
 nombre: Clara
 Edad: 27
-Color: rojo
+Color: azul
